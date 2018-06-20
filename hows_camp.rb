@@ -1,2 +1,4 @@
 def hows_camp(kodewithklossy)
-  puts 
+  puts "camp" #{kodewithklossy}"
+end
+hows_camp
